@@ -22,6 +22,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - LinkedIn: [stanley-ezeoke](https://linkedin.com/in/stanley-ezeoke)
 
 
+👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/SiansandaTamara)
+- Twitter: [@twitterhandle](https://twitter.com/TamaraSiansanda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tamara-siansanda/)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
